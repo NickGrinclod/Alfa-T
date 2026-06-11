@@ -1,6 +1,6 @@
 
 # Alfa-T
-
+![Alfa-T](IMG_0605.JPG)
 Mobile robotic manipulator developed using ESP32 controllers, AS5600 encoders, limit switches, and custom robotic arm mechanisms.
 
 ![Alfa-T](Alfa-T.png)
